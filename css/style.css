@@ -1,8 +1,8 @@
 /*============================================================
- # Template Name: Loxicat - Business Consulting HTML5 Template
- # Template URI: https://webextheme.com/html/loxicat-html/
+ # Template Name: Siratal Mech - Business Consulting HTML5 Template
+ # Template URI: https://webextheme.com/html/Siratal Mech-html/
  # Description: Business Consulting HTML5 Template
- # Author: Loxicat
+ # Author: Siratal Mech
  # Author URI: https://themeforest.net/user/webextheme
  # Version: 1.0
 /*============================================================
